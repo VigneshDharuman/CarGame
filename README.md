@@ -1,5 +1,4 @@
 # SimpleCarGame
-Learning the basics of Pygame
 
 <br>
 <br>
